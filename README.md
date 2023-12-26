@@ -15,6 +15,6 @@
 I am an enthusiast of Java and Prolog programming languages. I have some experience with topics related to Software Engineering and Programming Languages.
 I am the founder of [Prolobjectlink](https://github.com/prolobjectlink), an open source initiative for build logic based applications using Prolog and Java.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-zalacain-876508188/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jzalacainllanes/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jzalacainllanes)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/jose.zalacainllanes)
